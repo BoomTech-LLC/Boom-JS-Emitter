@@ -1,19 +1,19 @@
 {
-  "name": "boom-js-emitter",
-  "version": "1.0.0",
-  "description": "Create custom events on your own. Emit them wherever you want",
-  "main": "index.js",
-  "repository": "https://github.com/BoomTech-LLC/Boom-JS-Emitter",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Boomtech LLC",
-  "license": "MIT",
-  "keywords": [
-    "js",
-    "events",
-    "event-bus",
-    "emitter",
-    "react"
-  ]
+    "name": "boom-js-emitter",
+    "version": "1.0.0",
+    "description": "Create custom events on your own. Emit them wherever you want",
+    "main": "index.js",
+    "repository": "https://github.com/BoomTech-LLC/Boom-JS-Emitter",
+    "scripts": {
+        "ninify": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Boomtech LLC",
+    "license": "MIT",
+    "keywords": [
+        "js",
+        "events",
+        "event-bus",
+        "emitter",
+        "react"
+    ]
 }
