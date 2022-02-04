@@ -1,8 +1,9 @@
 {
   "name": "boom-js-emitter",
   "version": "1.0.0",
-  "description": "Create an events\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "description": "Create custom events on your own. Emit them wherever you want",
   "main": "index.js",
+  "repository": "https://github.com/BoomTech-LLC/Boom-JS-Emitter",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
