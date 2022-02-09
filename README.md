@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://form.boomform.com/">
-    <img src="https://cdn.boomte.ch/images/BoomForm.svg" alt="Logo" width="80" height="80">
+    <img src="https://cdn.boomte.ch/images/Emiiter.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Boom JS Emitter</h3>
@@ -131,9 +131,9 @@ This is not a code this is just a<br />
 
 <img src="https://cdn.boomte.ch/images/boomtechdeveloper/logo.svg" height="100">
 
-![This is an image](https://cdn.boomte.ch/images/TikoN.png?x=2) | ![This is an image](https://cdn.boomte.ch/images/SahakS.png?x=2) 
--- | -- 
-Tigran Nazaryan | Sahak Sahakyan
+![This is an image](https://cdn.boomte.ch/images/TikoN.png?x=2) | ![This is an image](https://cdn.boomte.ch/images/AraratM.png?x=2) | ![This is an image](https://cdn.boomte.ch/images/SahakS.png?x=2) 
+-- | -- | --
+Tigran Nazaryan | Ararat Matinyan | Sahak Sahakyan
 
 --- 
 
